@@ -1,5 +1,4 @@
-# My Cheat Sheet
-
+# Text editor notes
 ### Some of the most important features when considering a text editor..
 1. code completion
    - code completion is when your editor predicts the end of your code for you, saving you from typing it out all the way.
@@ -13,3 +12,4 @@
 - always save your documents with the correct extensions at the end of the file name.
      - i.e the main html file should be called index.html since it is an html file.
  
+[Table of Contents](README.md)

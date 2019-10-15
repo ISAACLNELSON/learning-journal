@@ -5,4 +5,4 @@
 
 > Git is a DVCS (Distributed Version Control System), which was an upgrade  from the CVCS (Centralized Vesion Control System). Git is an improvement because instead of having all users relying on one server to contain all the versions of their code, Git " allows clients to create mirrored repositories." in other words the reliance on the single server has been spread out between all the users through seperate repositories.
 
-
+[Table of Contents](README.md)

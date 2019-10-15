@@ -9,3 +9,5 @@
   - Remember that everyone starts out somewhere, and we all progress differently!
 3. If I think I've learned enough...
   - Dont get cocky, There is ***always*** more to learn!
+
+[Table of Contents](README.md)
