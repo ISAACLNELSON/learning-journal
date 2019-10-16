@@ -1,6 +1,7 @@
 # Process & Design
 
 > There are so many considerations when designing a website...
+
     - Who is it for?
     - What are they trying to gain?
     - What do they need to know to get it?
