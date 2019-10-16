@@ -11,7 +11,7 @@
 
 ## Site Map
 > A site map is a way to organize your thoughts on the design of your site. It is the "pre-write" for designing websites.
-![card sorting example](cardsorting.jpg)
+![card sorting example](images/cardsorting.jpg)
 
 
 

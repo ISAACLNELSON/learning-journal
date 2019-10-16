@@ -14,7 +14,7 @@
 1. The unordered list above can be written with -, +, or *. All will produce the same result!
 1. And you may notice something interesting about the sytnax of this ordered list now...
 
-![ordered list](ol.png)
+![ordered list](images/ol.png)
 
 > In an ordered list on Markdown you may put any number as the key, but a proper ordered list will always be displayed from that. The benefit of this is if you have a very long ordered list and you remove an item the  entire list will adjust automatically!
 
