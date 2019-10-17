@@ -9,6 +9,7 @@
 - [HTML Design Notes](html.md)
 - [CSS Notes](css-notes.md)
 - [JS Notes](javascript-notes.md)
+- [Computer Notes](computer-notes.md)
 
 
 
