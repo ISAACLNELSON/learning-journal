@@ -11,7 +11,7 @@
 - [JS Notes](javascript-notes.md)
 - [Computer Notes](computer-notes.md)
 - [Function Notes](function-notes.md)
-
+- [Operator Notes](operator-notes.md)
 
 
 
