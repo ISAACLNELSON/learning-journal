@@ -54,3 +54,5 @@ Lets consider this example.
 2. you must declare your source, `src="insert img location here"
 3. the alt is for accessibility and screen readers.
 4. and lastly ive set my height for the img to 100 pixels. The reason i did not set a width is so that the width would scale automatically so as to not distort my image.
+
+[Table of Contents](README.md)

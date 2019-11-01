@@ -13,6 +13,5 @@
 - [Function Notes](function-notes.md)
 - [Operator Notes](operator-notes.md)
 - [Lists, Boxes, and Loops](lists-boxes-loops.md)
-
-
+- [Text, images and color in CSS](text-img-color.md)
 
