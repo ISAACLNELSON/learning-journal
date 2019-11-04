@@ -7,4 +7,6 @@ There are two ways to remedy an challenging problem domain...
 
     - Also as stated in the article, you should treat it like a game. break down what you need to do level by level. Ask yourself, What is your level one for this problem? Once you have managed that you can introduce another factor within that problem.
 2. Get a better understanding of the project domain...
-    - e
+    - "It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it." - [article](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
+    - My personal advice for this is to make a full plan in psuedocode. What needs to happen to fulfil the expected result. Then you can break it up while keeping it in easy to understand wording so you dont confuse yourself later!
